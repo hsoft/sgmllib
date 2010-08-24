@@ -14,7 +14,7 @@ setup(
     author_email='hsoft@hardcoded.net',
     py_modules=['sgmllib'],
     scripts=[],
-    url='http://hg.hardcoded.net/sgmllib'
+    url='http://hg.hardcoded.net/sgmllib',
     license='BSD License',
     description='Py3k port of sgmllib.',
     long_description=open('README').read(),
